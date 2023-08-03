@@ -1,2 +1,2 @@
-# aintern
+# AIntern
 Legal Intern as program
